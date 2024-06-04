@@ -28,7 +28,7 @@ forget.addEventListener('click', function(){
 
 login.addEventListener('click', function(){
     index1.style.top = ('50%');
-    index2.style.top = ('130%');
+    index2.style.top = ('140%');
 })
 
 logi.addEventListener('click', function(){
@@ -38,7 +38,7 @@ logi.addEventListener('click', function(){
 
 criar.addEventListener('click', function(){
     cadastro.style.top = ('50%');
-    index1.style.top = ('130%');
+    index1.style.top = ('140%');
 })
 
 
